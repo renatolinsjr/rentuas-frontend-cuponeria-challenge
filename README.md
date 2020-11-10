@@ -4,7 +4,6 @@ This test aims to test the candidate's knowledge regarding the technologies used
 
 ## References 
 
-- [Deploy da Aplicação](http://cuponeria-frontendtest.surge.sh/)
 - [Layout no Figma](https://www.figma.com/file/CjWJWkhU0eYmwVlUaPs4A0/Cuponeria-Frontend-Challenge?node-id=0%3A1)
 - [API - Fake Store](https://fakestoreapi.com/)
 
